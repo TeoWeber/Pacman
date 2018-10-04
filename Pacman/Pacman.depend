@@ -1,0 +1,217 @@
+# depslib dependency file v1.0
+1512180752 source:c:\users\marco\desktop\faculdade\c sketches\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1512182746 c:\users\marco\desktop\faculdade\c sketches\pacman\library.h
+
+1512182542 source:c:\users\marco\desktop\faculdade\c sketches\pacman\library.c
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1510593518 source:e:\pacman\library.c
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+
+1510593520 e:\pacman\library.h
+
+1510593626 source:e:\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<library.h>
+	<conio.h>
+	<windows.h>
+
+1510597118 source:d:\pacman\library.c
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+
+1511979328 d:\pacman\library.h
+
+1510597310 source:d:\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<library.h>
+	<conio.h>
+	<windows.h>
+
+1512565126 source:\\homes\ajwjunior\windows config\desktop\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1512563601 \\homes\ajwjunior\windows config\desktop\pacman\library.h
+
+1512566243 source:\\homes\ajwjunior\windows config\desktop\pacman\library.c
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1511196808 source:\\homes\ajwjunior\windows config\desktop\main.c
+	<stdio.h>
+
+1512490019 source:\\homes\mvopinto\windows config\desktop\pacman\library.c
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1512488701 \\homes\mvopinto\windows config\desktop\pacman\library.h
+
+1512490042 source:\\homes\mvopinto\windows config\desktop\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1511537253 source:c:\codeblocks\pacman\library.c
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+
+1511537270 c:\codeblocks\pacman\library.h
+
+1511536807 source:c:\codeblocks\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+
+1512569843 source:c:\users\cliente\desktop\pacman\library.c
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1512601175 c:\users\cliente\desktop\pacman\library.h
+
+1512568726 source:c:\users\cliente\desktop\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1512611408 source:c:\users\marco\desktop\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1512610759 c:\users\marco\desktop\pacman\library.h
+
+1512612811 source:c:\users\marco\desktop\pacman\library.c
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1511920607 source:c:\users\marco\desktop\faculdade\pacman\main.c
+	<stdio.h>
+	<stdlib.h>
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1511921216 c:\users\marco\desktop\faculdade\pacman\library.h
+
+1511921476 source:c:\users\marco\desktop\faculdade\pacman\library.c
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1511974036 source:\\homes\mvopinto\windows config\desktop\pacman2\library.c
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1511972804 source:\\homes\mvopinto\windows config\desktop\pacman2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
+1512165516 source:d:\pacman2\library.c
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1511976406 source:d:\pacman2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<library.h>
+	<conio.h>
+	<windows.h>
+	<string.h>
+	<stdlib.h>
+	<time.h>
+
